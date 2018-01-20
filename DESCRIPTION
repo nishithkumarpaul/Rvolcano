@@ -1,0 +1,10 @@
+Package: Rvolcano
+Type: Package
+Title: Robust Volcano Plot: Identification of Influential Metabolites in the Presence of Outliers
+Version: 1.0
+Date: 2018-01-16
+Author: Nishith Kumar, Md. Aminul Hoque and Masahiro Sugimoto 
+Maintainer: Nishith Kumar <nk.bru09@gmail.com>
+Description: Robust volcano plot (RVP) for detection of influential metabolites in noisy metabolomics data. It is an extension of classical volcano plot. It is achieved by adding a kernel weight function to the calculation of the fold-change and p-values. 
+License: GPL (>= 2.10)
+
